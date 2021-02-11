@@ -8,7 +8,7 @@ This project was created to help represent a fundamental app written with Vue. T
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/johnpapa/vue-simple.git
+   git clone https://github.com/mcdonnelljames44/app.git
    cd vue-simple
    ```
 
