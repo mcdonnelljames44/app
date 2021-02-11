@@ -2,7 +2,6 @@
 
 This project was created to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 
-by [John Papa](http://twitter.com/john_papa)
 
 ## Getting Started
 
